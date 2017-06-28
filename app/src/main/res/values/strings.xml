@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Partiu CEUNES</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fechar navigation drawer</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_main">Partiu CEUNES</string>
+
+    <!-- Strings do navigation drawer -->
+    <string name="nav_search">Procurar carona</string>
+    <string name="nav_offer">Oferecer carona</string>
+    <string name="nav_share">Compartilhar com amigos</string>
+    <string name="nav_support">Suporte e contato</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+</resources>
