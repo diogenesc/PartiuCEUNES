@@ -72,15 +72,24 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_search) {
+        if(id == R.id.nav_main){
+
+        } else if (id == R.id.nav_search) {
             Intent it=new Intent(this,SearchActivity.class);
+            it.setFlags(it.getFlags() | Intent.FLAG_ACTIVITY_NO_HISTORY);
             startActivity(it);
         } else if (id == R.id.nav_offer) {
-
+            Intent it=new Intent(this,OfferActivity.class);
+            it.setFlags(it.getFlags() | Intent.FLAG_ACTIVITY_NO_HISTORY);
+            startActivity(it);
         } else if (id == R.id.nav_share) {
-
+            Intent it=new Intent(this,ShareActivity.class);
+            it.setFlags(it.getFlags() | Intent.FLAG_ACTIVITY_NO_HISTORY);
+            startActivity(it);
         } else if (id == R.id.nav_send){
-
+            Intent it=new Intent(this,SendActivity.class);
+            it.setFlags(it.getFlags() | Intent.FLAG_ACTIVITY_NO_HISTORY);
+            startActivity(it);
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

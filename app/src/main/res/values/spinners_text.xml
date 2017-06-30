@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="origem">
+        <item>São Mateus</item>
+        <item>Guriri</item>
+        <item>CEUNES</item>
+    </string-array>
+
+    <string-array name="destino">
+        <item>CEUNES</item>
+        <item>São Mateus</item>
+        <item>Guriri</item>
+    </string-array>
+</resources>
