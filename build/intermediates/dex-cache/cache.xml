@@ -2,22 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/diogenes/AndroidStudioProjects/PartiuCEUNES/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/diogenes/.android/build-cache/abf2fe60c38a2b42b4b6a411327014122f7a6255/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="22ca1338b13edbaca7a544f3570d18ae0fe9ae03">
-        <dex dex="/home/diogenes/AndroidStudioProjects/PartiuCEUNES/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3b66811a3a4dd1e0f94785d5c6c2295223c70ff2/classes.dex" />
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/diogenes/AndroidStudioProjects/PartiuCEUNES/app/build/intermediates/pre-dexed/debug/classes_c1b157ab92e2dd5d22005b93b6a2f7861a376101.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/diogenes/AndroidStudioProjects/PartiuCEUNES/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/diogenes/.android/build-cache/ea917c3b80de01d577ad08cda5be476c13217e74/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/diogenes/AndroidStudioProjects/PartiuCEUNES/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4498010044a4f29255e80b22abd3f46e7dea44bd/classes.dex" />
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/diogenes/AndroidStudioProjects/PartiuCEUNES/app/build/intermediates/pre-dexed/debug/classes_9dccfed3d653007e1fe128cd23ae0076c29e60cc.jar" />
     </item>
 
 </items>

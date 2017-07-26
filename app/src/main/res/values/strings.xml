@@ -17,5 +17,17 @@
     <string name="title_activity_offer">Oferecer carona</string>
     <string name="title_activity_share">Compartilhar com amigos</string>
     <string name="title_activity_send">Suporte e contato</string>
+    <string name="title_activity_register">Cadastro</string>
+
+    <!--Strings da autenticação-->
+    <string name="falha_login">Email ou senha incorreta</string>
+    <string name="naoverificado_login">Você ainda não tem permissão para acessar, se autentique no CAEC. Info: caecufes@gmail.com</string>
+    <string name="titulo_alerta_login">Sem autorização</string>
+    <string name="sucesso_login">Bem-vindo</string>
+    <string name="falha_cadastro">Insira email e senha válidos, a senha deve ter 6 dígitos</string>
+    <string name="sucesso_cadastro">Você está quase lá, agora você deve se dirigir ao
+        Centro Acadêmico de Engenharia de Computação para validação do seu cadastro</string>
+    <string name="titulo_alerta_cadastro">Cadastrado</string>
+    <string name="loading">Carregando...</string>
 
 </resources>

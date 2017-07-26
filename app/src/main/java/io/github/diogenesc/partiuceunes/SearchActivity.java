@@ -16,7 +16,7 @@ import android.view.MenuItem;
 import android.widget.*;
 
 public class SearchActivity extends AppCompatActivity
-        implements NavigationView.OnNavigationItemSelectedListener {
+        implements NavigationView.OnNavigationItemSelectedListener  {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,6 +45,9 @@ public class SearchActivity extends AppCompatActivity
                 R.array.destino, android.R.layout.simple_spinner_item);
         adapter2.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner2.setAdapter(adapter2);
+
+
+        spinner.getSelectedItemPosition();
     }
 
     @Override

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "130501246250",
+    "firebase_url": "https://partiu-ceunes.firebaseio.com",
+    "project_id": "partiu-ceunes",
+    "storage_bucket": "partiu-ceunes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130501246250:android:f9021a81a4d75311",
+        "android_client_info": {
+          "package_name": "io.github.diogenesc.partiuceunes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130501246250-la567o5hbp2t11kjoo0ioi72nuj96jro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.diogenesc.partiuceunes",
+            "certificate_hash": "a2b11d751043ceba730bdc62ce9e17cd59e20841"
+          }
+        },
+        {
+          "client_id": "130501246250-aomrgdhcfo0nr4hqm04tr8b1m7o6sgpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.diogenesc.partiuceunes",
+            "certificate_hash": "6ed1ab9c6bb5fb93169e1f149338125cae6d1339"
+          }
+        },
+        {
+          "client_id": "130501246250-9svl984ib5be5s0b62iuui5m7govo2hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wos2uyaDTjrM-ZyKQq_Z_VqWSMJlsPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130501246250-9svl984ib5be5s0b62iuui5m7govo2hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
